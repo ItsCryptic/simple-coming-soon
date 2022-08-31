@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+#logo {
+    height: 100px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 15%;
+}
+
+#container {
+    background-color: black;
+    color: white;
+}
+#coming-soon {
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+#discord {
+    border-radius: 4%;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: black;
+    color: white;
+}
+
+#center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
